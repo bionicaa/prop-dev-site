@@ -73,8 +73,39 @@ body {
 }
 
 .wrapper {
+  position: fixed;
   margin-left: 140px; 
   text-align: left;
   padding: 2rem 1rem;
 }
+
+.contact {  
+  position: fixed;
+  margin-left: 685px; 
+  padding: 2rem 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.info {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.quote {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+
 
